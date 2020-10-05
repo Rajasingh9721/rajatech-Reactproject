@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/rajatech-Reactproject/static/css/main.c3dcf927.chunk.css",
+    "main.js": "/rajatech-Reactproject/static/js/main.f12c2404.chunk.js",
+    "main.js.map": "/rajatech-Reactproject/static/js/main.f12c2404.chunk.js.map",
+    "runtime-main.js": "/rajatech-Reactproject/static/js/runtime-main.d71ceca9.js",
+    "runtime-main.js.map": "/rajatech-Reactproject/static/js/runtime-main.d71ceca9.js.map",
+    "static/css/2.383bd4f4.chunk.css": "/rajatech-Reactproject/static/css/2.383bd4f4.chunk.css",
+    "static/js/2.7e6f958b.chunk.js": "/rajatech-Reactproject/static/js/2.7e6f958b.chunk.js",
+    "static/js/2.7e6f958b.chunk.js.map": "/rajatech-Reactproject/static/js/2.7e6f958b.chunk.js.map",
+    "index.html": "/rajatech-Reactproject/index.html",
+    "precache-manifest.a9817cecf07228a05c65af8027358c5e.js": "/rajatech-Reactproject/precache-manifest.a9817cecf07228a05c65af8027358c5e.js",
+    "service-worker.js": "/rajatech-Reactproject/service-worker.js",
+    "static/css/2.383bd4f4.chunk.css.map": "/rajatech-Reactproject/static/css/2.383bd4f4.chunk.css.map",
+    "static/css/main.c3dcf927.chunk.css.map": "/rajatech-Reactproject/static/css/main.c3dcf927.chunk.css.map",
+    "static/js/2.7e6f958b.chunk.js.LICENSE.txt": "/rajatech-Reactproject/static/js/2.7e6f958b.chunk.js.LICENSE.txt",
+    "static/media/1.png": "/rajatech-Reactproject/static/media/1.8c550557.png",
+    "static/media/2.png": "/rajatech-Reactproject/static/media/2.e5364f6f.png",
+    "static/media/android.jfif": "/rajatech-Reactproject/static/media/android.027417ef.jfif",
+    "static/media/app.jfif": "/rajatech-Reactproject/static/media/app.2d3e6fd5.jfif",
+    "static/media/digital.jfif": "/rajatech-Reactproject/static/media/digital.81a9c8f9.jfif",
+    "static/media/marketing.jfif": "/rajatech-Reactproject/static/media/marketing.422347ea.jfif",
+    "static/media/software.jfif": "/rajatech-Reactproject/static/media/software.5a11fb77.jfif",
+    "static/media/web.jfif": "/rajatech-Reactproject/static/media/web.a4c0249e.jfif"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d71ceca9.js",
+    "static/css/2.383bd4f4.chunk.css",
+    "static/js/2.7e6f958b.chunk.js",
+    "static/css/main.c3dcf927.chunk.css",
+    "static/js/main.f12c2404.chunk.js"
+  ]
+}
